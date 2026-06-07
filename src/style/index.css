@@ -24,8 +24,9 @@ body {
 }
 
 .logo-cafe {
-    width: 12%;
+    width: 5%;
     height: auto;
+    margin-left: 3vh;
 }
 
 .navbar .nav-link {
@@ -33,12 +34,17 @@ body {
     font-weight: 500;
     margin: 0 10px;
     transition: 0.3s;
-    margin-right: 8vh;
-
+   
 }
 
 .navbar .nav-link:hover {
     color: #d7a86e !important;
+}
+/* .nav-item{
+    margin-right: 5vh;
+} */
+.brand-text{
+    margin-top: 3vh;
 }
 
 /* Buttons */
@@ -238,7 +244,7 @@ body {
     width: 25%;
     height: auto;
     margin-top: -5vh;
-    margin-left: 4vh;
+    margin-left: 8vh;
 
 }
 
